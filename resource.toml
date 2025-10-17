@@ -1,0 +1,5 @@
+type = "js"
+main = "dist/server/server.js"
+
+# Dependency to chat resource
+deps = ["chat"]
